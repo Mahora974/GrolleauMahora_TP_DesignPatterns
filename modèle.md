@@ -2,7 +2,7 @@
 
 ## Problèmatique de départ
 
-## Fonctionnement
+## Principe et fonctionnement
 
 ## Structure
 
