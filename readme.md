@@ -14,3 +14,4 @@
    - [Observer](Observer/explication.md) (11/02)
    - [Strategy](Strategy/explication.md) (03/03)
    - [State](State/explication.md) (03/03)
+   - [Command](Command/explication.md) (03/03)
