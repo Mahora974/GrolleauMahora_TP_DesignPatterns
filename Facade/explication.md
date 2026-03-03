@@ -14,7 +14,7 @@ L'idée est de créer un portail entre la librairie et le code qui donne un acc�
 
 La facade est une classe qui a pour attribut le moyen d'accèder au code externe et en méthodes les comportements que l'on souhaite récupérer du code externe.
 
-[Ici un exemple](exemple.md)
+[Ici un exemple](./exemple.php)
 
 ## Avantages / Inconvénients
 

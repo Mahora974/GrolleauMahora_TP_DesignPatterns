@@ -21,7 +21,7 @@ D'abord, on a la classe du **diffuseur**. Cette classe va contenir au moins un a
 
 Les **abonnés** partage tous la même interface, qui permettera d'appeller la même fonction lors que la diffusion peut importe la classe de l'**abonné**.
 
-[Exemple](exemple.md)
+[Exemple](./exemple.php)
 
 ## Avantages / Inconvénients
 

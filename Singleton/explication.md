@@ -22,7 +22,7 @@ La structure est assez simple : on part d'une classe, et on encapsule la méthod
 
 On va également prévoir une variable **statique** et **privée** pour stocker l'instance.
 
-[Retrouvez ici un exemple](exemple.php)
+[Retrouvez ici un exemple](./exemple.php)
 
 ## Avantages / Inconvénients
 

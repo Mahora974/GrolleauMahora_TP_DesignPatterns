@@ -30,7 +30,7 @@ On créé ensuite une classe abstraite implémentant également l'**interface** 
 
 Enfin, on créé les **décorateurs concrets** qui étendent le **décorateur de base** (et donc par conséquent l'interface). Ils vont surcharger les fonctions du **composant concret** pour y ajouter leur logique spécifique. 
 
-[Consulter l'exemple](exemple.php)
+[Consulter l'exemple](./exemple.php)
 
 ## Avantages / Inconvénients
 
