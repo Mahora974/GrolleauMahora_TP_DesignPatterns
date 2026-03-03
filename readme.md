@@ -4,6 +4,7 @@
  - ### Création
    - [Singleton](Singleton/explication.md) (11/02)
    - [Factory Method](Factory_Method/explication.md) (03/03)
+   - [Builder](Builder/explication.md)(03/03)
 
  - ### Structure
    - [Decorator](Decorator/explication.md) (11/02)
