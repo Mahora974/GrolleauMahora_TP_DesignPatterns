@@ -1,5 +1,7 @@
 # Singleton
 
+[Retour au sommaire](../readme.md)
+
 ## Problèmatique de départ
 
 **Premier problème :** Quand une classe est instanciée classiquement, un nouvel objet est créé à chaque fois. En effet, si l'objet n'est pas stocké dans une variable, il est impossible de le récupérer et il sera supprimé à la fin de son utilisation. 

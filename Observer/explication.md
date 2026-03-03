@@ -1,5 +1,7 @@
 # Observer
 
+[Retour au sommaire](../readme.md)
+
 ## Problèmatique de départ
 
 Quand on veut qu'un élément attende un événement déclanché par un autre élément, on a deux choix : 

@@ -1,5 +1,7 @@
 # Decorator
 
+[Retour au sommaire](../readme.md)
+
 ## Problèmatique de départ
 
 **Premier problème :** Pour ajouter des comportement sur une classe, une des solutions utilisées est de créer de l'héritage. Cependant, cette nouvelle classe ne peut avoir d'un seul parent. le parent fait partie de l'enfant.
