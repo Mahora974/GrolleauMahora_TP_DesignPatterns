@@ -11,3 +11,4 @@
    - [Adapter](Adapter/explication.md) (03/03)
  - ### Comportement
    - [Observer](Observer/explication.md) (11/02)
+   - [Strategy](Strategy/explication.md) (03/03)
